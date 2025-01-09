@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbisema_basic=self.webpackChunkbisema_basic||[]).push([[592],{9579:(a,o,e)=>{e.d(o,{P:()=>t});var s=e(6814);const t=(0,s.ZF)("catalogue");(0,s.P1)(t,_=>_)},5133:(a,o,e)=>{e.d(o,{p:()=>t});var s=e(6814);const t=(0,s.ZF)("company");(0,s.P1)(t,_=>_)}}]);
